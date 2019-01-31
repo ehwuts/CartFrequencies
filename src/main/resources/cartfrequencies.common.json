@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "yeoldesoupe.cartfrequencies.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+	"DyeUser"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

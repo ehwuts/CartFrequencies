@@ -1,0 +1,15 @@
+{
+  "id": "cartfrequencies",
+  "name": "CartFrequencies",
+  "description": "Adds color-coded minecarts and detector rails.",
+  "version": "0.0.1",
+  "side": "universal",
+  "initializer": "yeoldesoupe.cartfrequencies.CartFrequencies",
+  "requires": {
+    "fabric": "*"
+  },
+  "mixins": {
+    "client": "cartfrequencies.client.json",
+    "common": "cartfrequencies.common.json"
+  }
+}

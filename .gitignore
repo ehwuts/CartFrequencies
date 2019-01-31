@@ -1,0 +1,20 @@
+# gradle
+
+.gradle/
+gradle/
+build/
+out/
+gradlew
+gradlew.bat
+gradle.properties
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# fabric
+
+run/
