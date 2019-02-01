@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "yeoldesoupe.cartfrequencies.mixin",
+  "package": "yeoldesoupe.cartfrequencies.mixinclient",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
