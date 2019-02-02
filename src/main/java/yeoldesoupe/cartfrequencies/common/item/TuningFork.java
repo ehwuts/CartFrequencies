@@ -55,8 +55,8 @@ public class TuningFork extends Item {
 	}
 	
 	private static void prevColorIndex(ItemStack stack) {
-		int current = getColorIndex(stack);		
-		setColorIndex(stack, current > 1 ? current - 1 : DyeColor.values().length - 1);
+		int current = getColorIndex(stack);
+		setColorIndex(stack, current > 0 ? current - 1 : DyeColor.values().length - 1);
 	}
 	
 	private static void nextColorIndex(ItemStack stack) {
