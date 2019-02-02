@@ -6,7 +6,7 @@ import net.fabricmc.api.ClientModInitializer;
 public class CartFrequenciesClient implements ClientModInitializer {
 	@Override
 	public void onInitializeClient() {
-		System.out.println("CLIENT HONK.");
+		//System.out.println("CLIENT HONK HONK.");
 		
 		RegistryClient.init();
 	}

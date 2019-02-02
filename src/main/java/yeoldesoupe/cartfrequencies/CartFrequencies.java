@@ -12,7 +12,7 @@ public class CartFrequencies implements ModInitializer {
 	
 	@Override
 	public void onInitialize() {
-		System.out.println("SERVER HONK.");
+		System.out.println("HONK HONK.");
 		
 		RegistryCommon.init();
 		
