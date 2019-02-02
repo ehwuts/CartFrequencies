@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "cartfrequencies:items/tuning_fork"
+        "layer0": "cartfrequencies:items/tuning_fork_layer0",
+        "layer1": "cartfrequencies:items/tuning_fork_layer1"
     }
 }

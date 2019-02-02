@@ -4,7 +4,10 @@
   "description": "Adds color-coded minecarts and rails.",
   "version": "0.0.3",
   "side": "universal",
-  "initializer": "yeoldesoupe.cartfrequencies.CartFrequencies",
+  "initializers": [
+	"yeoldesoupe.cartfrequencies.CartFrequencies",
+	"yeoldesoupe.cartfrequencies.CartFrequenciesClient"
+  ]
   "requires": {
     "fabric": "*"
   },
