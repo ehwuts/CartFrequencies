@@ -7,7 +7,7 @@
   "initializers": [
 	"yeoldesoupe.cartfrequencies.CartFrequencies",
 	"yeoldesoupe.cartfrequencies.CartFrequenciesClient"
-  ]
+  ],
   "requires": {
     "fabric": "*"
   },
